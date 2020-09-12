@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="blog01">
+        <item>お料理速報</item>
+        <item>http://oryouri.2chblog.jp/index.rdf</item>
+    </string-array>
+    <string-array name="blog02">
+        <item>オレ的ゲーム速報@刃</item>
+        <item>http://jin115.com/index.rdf</item>
+    </string-array>
+    <string-array name="blog03">
+        <item>ダイエット速報</item>
+        <item>http://blog.livedoor.jp/diet2channel/index.rdf</item>
+    </string-array>
+    <string-array name="blog04">
+        <item>BIPブログ</item>
+        <item>http://bipblog.com/index.rdf</item>
+    </string-array>
+    <string-array name="blog05">
+        <item>痛いニュースﾉ∀`</item>
+        <item>http://blog.livedoor.jp/dqnplus/index.rdf</item>
+    </string-array>
+    <string-array name="blog06">
+        <item>ハムスター速報</item>
+        <item>http://hamusoku.com/index.rdf</item>
+    </string-array>
+    <string-array name="blog07">
+        <item>VIPPERな俺</item>
+        <item>http://blog.livedoor.jp/news23vip/index.rdf</item>
+    </string-array>
+    <string-array name="blog08">
+        <item>かぞくちゃんねる</item>
+        <item>http://kazokuchannel.doorblog.jp/index.rdf</item>
+    </string-array>
+    <string-array name="blog09">
+        <item>芸能ネタはこれだけでおｋ</item>
+        <item>http://koredakedeok.blog.jp/index.rdf</item>
+    </string-array>
+    <string-array name="blog10">
+        <item>【2ch】ニュー速クオリティ</item>
+        <item>http://news4vip.livedoor.biz/index.rdf</item>
+    </string-array>
+    <string-array name="blog11">
+        <item>カオスちゃんねる</item>
+        <item>http://chaos2ch.com/index.rdf</item>
+    </string-array>
+    <string-array name="blog12">
+        <item>哲学ニュースnwk</item>
+        <item>http://blog.livedoor.jp/nwknews/index.rdf</item>
+    </string-array>
+    <string-array name="blog13">
+        <item>結婚・恋愛ニュースぷらす</item>
+        <item>http://blog.livedoor.jp/kekkongo/index.rdf</item>
+    </string-array>
+    <string-array name="blog14">
+        <item>マネーニュース2ch</item>
+        <item>http://okanehadaiji.com/index.rdf</item>
+    </string-array>
+    <string-array name="blog15">
+        <item>流速VIP</item>
+        <item>http://ryusoku.com/index.rdf</item>
+    </string-array>
+    <string-array name="blog16">
+        <item>芸能人の気になる噂</item>
+        <item>http://blog.livedoor.jp/uwasainfo/index.rdf</item>
+    </string-array>
+    <string-array name="blog17">
+        <item>オタクニュース</item>
+        <item>http://otanew.jp/index.rdf</item>
+    </string-array>
+    <string-array name="blog18">
+        <item>ネタめし.com</item>
+        <item>http://www.netamesi.com/index.rdf</item>
+    </string-array>
+    <string-array name="blog19">
+        <item>らばQ</item>
+        <item>http://labaq.com/index.rdf</item>
+    </string-array>
+    <string-array name="blog20">
+        <item>【2ch】コピペ情報局</item>
+        <item>http://news.2chblog.jp/index.rdf</item>
+    </string-array>
+    <string-array name="blog21">
+        <item>ラビット速報</item>
+        <item>http://rabitsokuhou.2chblog.jp/index.rdf</item>
+    </string-array>
+    <string-array name="blog22">
+        <item>デジタルニューススレッド</item>
+        <item>http://digital-thread.com/index.rdf</item>
+    </string-array>
+    <string-array name="blog23">
+        <item>わんこーる速報！</item>
+        <item>http://onecall2ch.com/index.rdf</item>
+    </string-array>
+    <string-array name="blog24">
+        <item>ぶる速-VIP</item>
+        <item>http://burusoku-vip.com/index.rdf</item>
+    </string-array>
+    <string-array name="blog25">
+        <item>エクサワロス</item>
+        <item>http://exawarosu.net/index.rdf</item>
+    </string-array>
+    <string-array name="blog26">
+        <item>VIPワイドガイド</item>
+        <item>http://news4wide.net/index.rdf</item>
+    </string-array>
+    <string-array name="blog27">
+        <item>恋愛速報｜2chまとめサイト</item>
+        <item>http://www.recosoku.com/index.rdf</item>
+    </string-array>
+    <string-array name="blog28">
+        <item>ゴールデンタイムズ</item>
+        <item>http://blog.livedoor.jp/goldennews/index.rdf</item>
+    </string-array>
+    <string-array name="blog29">
+        <item>スコールちゃんねる｜２ちゃんまとめブログ</item>
+        <item>http://squallchannel.com/index.rdf</item>
+    </string-array>
+    <string-array name="blog30">
+        <item>常識的に考えた</item>
+        <item>http://blog.livedoor.jp/jyoushiki43/index.rdf</item>
+    </string-array>
+    <string-array name="blog31">
+        <item>まとめたニュース</item>
+        <item>http://matometanews.com/index.rdf</item>
+    </string-array>
+    <string-array name="blog32">
+        <item>稲妻速報</item>
+        <item>http://inazumanews2.com/index.rdf</item>
+    </string-array>
+    <string-array name="blog33">
+        <item>GEEK速報 – ギー速　2chまとめ</item>
+        <item>http://geeksokuhou.net/feed</item>
+    </string-array>
+    <string-array name="blog34">
+        <item>IT速報</item>
+        <item>http://blog.livedoor.jp/itsoku/index.rdf</item>
+    </string-array>
+    <string-array name="blog35">
+        <item>ライフハックちゃんねる弐式</item>
+        <item>http://lifehack2ch.livedoor.biz/index.rdf</item>
+    </string-array>
+    <string-array name="blog36">
+        <item>NEWSまとめもりー｜2chまとめブログ</item>
+        <item>http://www.akb48matomemory.com/index.rdf</item>
+    </string-array>
+    <string-array name="blog37">
+        <item>ニュース30over</item>
+        <item>http://www.news30over.com/index.rdf</item>
+    </string-array>
+    <string-array name="blog38">
+        <item>ぱる速報</item>
+        <item>http://parusoku.com/index.rdf</item>
+    </string-array>
+    <string-array name="blog39">
+        <item>大艦巨砲主義！</item>
+        <item>http://military38.com/index.rdf</item>
+    </string-array>
+    <string-array name="blog40">
+        <item>暇つぶしニュース</item>
+        <item>http://blog.livedoor.jp/rbkyn844/index.rdf</item>
+    </string-array>
+    <string-array name="blog41">
+        <item>ねたAtoZ</item>
+        <item>http://netaatoz.jp/index.rdf</item>
+    </string-array>
+    <string-array name="blog42">
+        <item>チャリ足</item>
+        <item>http://bybybicycle.blog.jp/index.rdf</item>
+    </string-array>
+    <string-array name="blog43">
+        <item>ゲーハー黙示録</item>
+        <item>http://aatyu.livedoor.blog/index.rdf</item>
+    </string-array>
+    <string-array name="blog44">
+        <item>マネー速報</item>
+        <item>http://money-soku.blog.jp/index.rdf</item>
+    </string-array>
+    <string-array name="blog45">
+        <item>ロードバイクまとめサイト速報</item>
+        <item>https://newmatosoku.com/feed/rodoba/rss2.xml</item>
+    </string-array>
+    <string-array name="blog46">
+        <item>NEWSぽけまとめーる</item>
+        <item>http://pokemon-goh.doorblog.jp/index.rdf</item>
+    </string-array>
+    <string-array name="blog47">
+        <item>不思議.net</item>
+        <item>http://world-fusigi.net/index.rdf</item>
+    </string-array>
+    <string-array name="blog48">
+        <item>ガールズVIPまとめ</item>
+        <item>http://girlsvip-matome.com/index.rdf</item>
+    </string-array>
+    <string-array name="blog49">
+        <item>ネギ速</item>
+        <item>http://www.negisoku.com/index.rdf</item>
+    </string-array>
+    <string-array name="blog50">
+        <item>乗り物速報</item>
+        <item>http://norisoku.com/index.rdf</item>
+    </string-array>
+
+
+
+    <string-array name="listBlogs">
+        <item>@array/blog01</item>
+        <item>@array/blog02</item>
+        <item>@array/blog03</item>
+        <item>@array/blog04</item>
+        <item>@array/blog05</item>
+        <item>@array/blog06</item>
+        <item>@array/blog07</item>
+        <item>@array/blog08</item>
+        <item>@array/blog09</item>
+        <item>@array/blog10</item>
+        <item>@array/blog11</item>
+        <item>@array/blog12</item>
+        <item>@array/blog13</item>
+        <item>@array/blog14</item>
+        <item>@array/blog15</item>
+        <item>@array/blog16</item>
+        <item>@array/blog17</item>
+        <item>@array/blog18</item>
+        <item>@array/blog19</item>
+        <item>@array/blog20</item>
+        <item>@array/blog21</item>
+        <item>@array/blog22</item>
+        <item>@array/blog23</item>
+        <item>@array/blog24</item>
+        <item>@array/blog25</item>
+        <item>@array/blog26</item>
+        <item>@array/blog27</item>
+        <item>@array/blog28</item>
+        <item>@array/blog29</item>
+        <item>@array/blog30</item>
+        <item>@array/blog31</item>
+        <item>@array/blog32</item>
+        <item>@array/blog33</item>
+        <item>@array/blog34</item>
+        <item>@array/blog35</item>
+        <item>@array/blog36</item>
+        <item>@array/blog37</item>
+        <item>@array/blog38</item>
+        <item>@array/blog39</item>
+        <item>@array/blog40</item>
+        <item>@array/blog41</item>
+        <item>@array/blog42</item>
+        <item>@array/blog43</item>
+        <item>@array/blog44</item>
+        <item>@array/blog45</item>
+        <item>@array/blog46</item>
+        <item>@array/blog47</item>
+        <item>@array/blog48</item>
+        <item>@array/blog49</item>
+        <item>@array/blog50</item>
+    </string-array>
+
+</resources>

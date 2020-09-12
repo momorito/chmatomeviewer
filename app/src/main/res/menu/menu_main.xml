@@ -1,0 +1,39 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="jp.tanikinaapps.chviewer.MainActivity">
+    <item
+        android:id="@+id/action_reboot"
+        android:orderInCategory="100"
+        android:title="@string/reboot"
+        android:icon="@drawable/ic_refresh_black_24dp"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_favorite"
+        android:orderInCategory="200"
+        android:title="@string/favorite"
+        android:icon="@drawable/ic_star_black_24dp"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="300"
+        android:title="@string/settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_search"
+        android:orderInCategory="400"
+        android:title="@string/search"
+        android:icon="@drawable/ic_search_black_24dp"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="500"
+        android:title="@string/about_app"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_license"
+        android:orderInCategory="500"
+        android:title="@string/opensource_license"
+        app:showAsAction="never" />
+</menu>

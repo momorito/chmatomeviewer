@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">ChまとめViewer</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- MainActivity -->
+    <string name="now_loading"> </string>
+    <string name="reboot">再読み込み</string>
+    <string name="favorite">お気に入り</string>
+    <string name="settings">設定</string>
+    <string name="search">検索</string>
+    <string name="about_app">About</string>
+    <string name="opensource_license">Opensource License</string>
+
+    <string name="doSearch">検索</string>
+    <string name="search_instruction">記事・ブログ名で検索できます。</string>
+    <string name="search_by_article">記事で検索</string>
+    <string name="search_by_blog">ブログで検索</string>
+    <string name="searchHint">検索文字を入力</string>
+    <string name="cancel">キャンセル</string>
+    <string name="loading">読み込みが遅い場合は、設定からブログ選択で閲覧ブログ数を調整してください。</string>
+
+    <!-- WebActivity -->
+    <string name="web_reboot">再読み込み</string>
+    <string name="web_share">共有</string>
+    <string name="web_favorite">お気に入りに追加</string>
+    <string name="open_other_app">ブラウザで開く</string>
+
+    <!-- ImageActivity -->
+    <string name="image_activity_title">画像抽出</string>
+    <string name="image_caution">※上画像は著作権法等で保護されている場合があります</string>
+    <string name="save_image">保存</string>
+    <string name="cancel_image">閉じる</string>
+
+    <!-- SearchActivity -->
+    <string name="search_activity_label">検索結果</string>
+
+    <!-- FavoiteActivity -->
+    <string name="favorite_activity_title">お気に入り</string>
+    <string name="deleteFavorite">削除</string>
+
+    <!-- AboutDialog -->
+    <string name="create_by">Created by momorito 2020-</string>
+    <string name="call_me">問い合わせや機能追加の相談などは、下記からお願いします。</string>
+    <string name="dialog_back">閉じる</string>
+    <string name="mail">メール</string>
+    <string name="mail_address">tanikina.apps@gmail.com</string>
+    <string name="twitter">Twitter</string>
+    <string name="twitter_address">momorito</string>
+    <string name="about_close">閉じる</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">設定画面</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_web">WebActivity</string>
+
+
+
+    <!--  SettingActivity -->
+    <string name="title_activity_setting">設定</string>
+    <string name="general_setting">設定（一般）</string>
+    <string name="blog_select">設定 (blog)</string>
+    <string name="tab_text_1">一般</string>
+    <string name="tab_text_2">ブログ選択</string>
+    <string name="tab_text_3">NGワード</string>
+    <string name="blog_select_read">読むブログを選択できます。</string>
+    <string name="general_1_title">ブラウザ拡大・縮小機能</string>
+    <string name="general_1_explain">各種ブログを表示する際、ブラウザの拡大縮小機能を利用します。なお、Androidのバージョンや、閲覧ページの対応状況により、動かない場合があります。</string>
+    <string name="general_2_title">外部アプリ連携</string>
+    <string name="general_2_explain">Twitter、Facebook、Instagram、Youtubeなどを利用する際、外部アプリを利用します。外部アプリがインストールされていない場合、うまく動かない場合があります。</string>
+    <string name="general_3_title">画像抽出機能</string>
+    <string name="general_3_explain">各種ブログ閲覧時、画面の右下に画像抽出ボタンを表示します。</string>
+    <string name="general_4_title">背景色</string>
+    <string name="general_4_explain">背景色を設定します。</string>
+    <string name="general_5_title">広告除去</string>
+    <string name="general_5_explain">Javascriptを無効にして、多くの広告表示を無効化することができます。（ブログによっては画像や動画など適切に表示されない場合があります。）</string>
+
+    <string name="ng_word">NGワードを含む記事を取り除くことができます。登録したNGワードはタップで削除できます。</string>
+    <string name="ng_regist">登録</string>
+
+
+    <!--  Ads -->
+    <string name="ad_code">ca-app-pub-9814390043716447~5451094156</string>
+    <string name="ad_unit_id">ca-app-pub-9814390043716447/3627710740</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
