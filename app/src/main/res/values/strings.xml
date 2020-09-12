@@ -84,8 +84,8 @@
 
 
     <!--  Ads -->
-    <string name="ad_code">ca-app-pub-9814390043716447~5451094156</string>
-    <string name="ad_unit_id">ca-app-pub-9814390043716447/3627710740</string>
+    <string name="ad_code">YOUR_CODE</string>
+    <string name="ad_unit_id">YOUR_UNIT_ID</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
